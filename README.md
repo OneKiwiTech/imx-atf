@@ -1,4 +1,4 @@
-# iMX ARM Trusted Firmware
+# i.MX ARM Trusted Firmware
 
 ## Download Toolchain
 - `cd`
